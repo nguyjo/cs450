@@ -10,3 +10,4 @@
 
 ### note:
 Refers to agentic-misalignment as a Submodule
+If there were generated files throughout this lab, the cloned agentic-misalignment repository will not include them. Although we completed the lab, we deleted and created the nested repository multiple times, because we were learning about the difference between cloning and submodules.
