@@ -1,0 +1,3 @@
+[submodule "agentic-misalignment~"]
+	path = agentic-misalignment~
+	url = https://github.com/abuach/agentic-misalignment.git
